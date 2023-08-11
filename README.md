@@ -1,10 +1,7 @@
-# Competition
-Repository for competition
+# Dakota State University National Data Analytics Competition
 
-Use your own folder when making models. Each folder will have a solution that I have made for your reference. Ensure you save your work as 
-'FIRSTNAMEINITIAL''LASTNAMEINITIAL''MODEL''MODELNUMBER'.
-For example, if I have 2 models, I would save it as - 
-NPModel1
-NPModel2
+## Problem Statement
+Can we predict whether a customer defaults on their credit payment?
 
-Happy programming!
+## Solution
+Out final submission is added into this repository, winning us 3rd place.
